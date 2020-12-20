@@ -1,2 +1,2 @@
 # banana-speak
- translator vanilajs
+ translator, vanilla js
