@@ -7,10 +7,12 @@ textarea {
     align-items: center;
     background-color: rgb(238, 234, 17);
     opacity: .5;
+    color: black;
 }
 
 #output {
     border: 1px solid black;
+    color: black;
     height: 10vh;
     width: 80%;
     margin: 1rem;
